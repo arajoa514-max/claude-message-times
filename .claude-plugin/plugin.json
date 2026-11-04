@@ -1,0 +1,6 @@
+{
+  "name": "message-times",
+  "version": "0.1.0",
+  "description": "A pane beside the chat listing the messages you sent this session with their time (KST)",
+  "types": "./types/index.d.ts"
+}

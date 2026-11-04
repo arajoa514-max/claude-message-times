@@ -1,0 +1,11 @@
+{
+  "name": "message-times",
+  "owner": { "name": "arajoa514-max" },
+  "plugins": [
+    {
+      "name": "message-times",
+      "source": "./",
+      "description": "A pane beside the chat listing the messages you sent this session with their time (KST)"
+    }
+  ]
+}
